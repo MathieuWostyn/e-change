@@ -52,3 +52,8 @@ Le coût de la formation \(1 journée, de 9h30 à 18h, soit 7h de formation\) s�
 
 Disposer d’un ordinateur portable et, idéalement, d’un ordiphone.
 
+## Bilan de la journée
+
+Le questionnaire se trouve ici : [https://ritimo.info/limesurvey/index.php/742743?lang=fr](
+https://ritimo.info/limesurvey/index.php/742743?lang=fr)
+
