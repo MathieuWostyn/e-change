@@ -2,7 +2,7 @@
 description: Nos liens
 ---
 
-# Quelques ressources
+# Retoucher des images et photos avec GIMP : les ressources
 
 ### La formation
 

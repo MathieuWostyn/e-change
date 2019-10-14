@@ -2,7 +2,7 @@
 description: Nos liens
 ---
 
-# Quelques ressources
+# Utiliser des réseaux sociaux libres et alternatifs : les ressources
 
 ##  Lectures
 
