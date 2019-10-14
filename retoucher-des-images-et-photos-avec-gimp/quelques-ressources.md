@@ -4,8 +4,6 @@ description: Nos liens
 
 # Quelques ressources
 
-
-
 ### La formation
 
 * Adresse de ce pad : [https://frama.link/gimp-ritimo](https://frama.link/gimp-ritimo)
